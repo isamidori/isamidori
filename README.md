@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Welcome to my Github profile.
+### Welcome to my Github profile.
 ## My name is Isabela Midori!
 
 <div>
