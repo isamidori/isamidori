@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my Github profile.
-## My name is Isabela Midori!
+### My name is Isabela Midori!
 
 <div>
 <a href="https://github.com/isamidori">
